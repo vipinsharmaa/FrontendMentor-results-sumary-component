@@ -7,10 +7,10 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ![](.assets/images/screenshot.png)
 
 
-### Links
+### Live Site
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [Add live site URL here](https://vipinsharmaa.github.io/FrontendMentor-results-sumary-component/)
 
 
 ### Built with
