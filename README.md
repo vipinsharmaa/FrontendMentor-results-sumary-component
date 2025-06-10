@@ -10,7 +10,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Live Site
 
 
-- Live Site URL: [Add live site URL here](https://vipinsharmaa.github.io/FrontendMentor-results-sumary-component/)
+- [Click Here](https://vipinsharmaa.github.io/FrontendMentor-results-sumary-component/)
 
 
 ### Built with
